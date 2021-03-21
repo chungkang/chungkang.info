@@ -1,3 +1,28 @@
+# chungkang.info
+chungkang.info
+
+Gatsby on Github Pages
+
+https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal#features
+
+
+
+
+https://velog.io/@_woogie/Gatsby%EB%A1%9C-Github-page-%EB%A7%8C%EB%93%A4%EA%B8%B0
+
+https://musma.github.io/2019/08/09/gatsby-js.html
+
+
+
+https://www.gatsbyjs.com/blog/2018-2-27-why-i-upgraded-my-website-to-gatsbyjs-from-jekyll/
+
+https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/how-gatsby-works-with-github-pages/
+
+https://blog.bitsrc.io/deploy-a-gatsby-site-on-github-pages-for-free-f18853c1b7a9
+
+
+
+
 # Gatsby Starter Portfolio Minimal
 
 #### A modern one-page portfolio with a clean yet expressive design.
