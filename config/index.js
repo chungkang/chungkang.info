@@ -58,7 +58,7 @@ module.exports = {
   socialMedia: [
     {
       name: "Linkedin",
-      url: "https://www.linkedin.com/in/konstantin-muenster/",
+      url: "https://www.linkedin.com/in/ck-c/",
     },
     {
       name: "Medium",
@@ -67,7 +67,7 @@ module.exports = {
     {
       name: "Github",
       url:
-        "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
+        "https://github.com/chungkang",
     },
     {
       name: "Behance",
