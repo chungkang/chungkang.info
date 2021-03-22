@@ -62,7 +62,7 @@ module.exports = {
     },
     {
       name: "Medium",
-      url: "https://konstantinmuenster.medium.com/",
+      url: "https://medium.com/@chungkang.c",
     },
     {
       name: "Github",
