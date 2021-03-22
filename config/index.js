@@ -60,23 +60,23 @@ module.exports = {
       name: "Linkedin",
       url: "https://www.linkedin.com/in/ck-c/",
     },
-    {
-      name: "Medium",
-      url: "https://medium.com/@chungkang.c",
-    },
+    // {
+    //  name: "Medium",
+    //  url: "https://medium.com/@chungkang.c",
+    // },
     {
       name: "Github",
       url:
         "https://github.com/chungkang",
     },
-    {
-      name: "Behance",
-      url: "https://www.behance.net/konstanmnster",
-    },
     // {
-    //   name: "Mail",
-    //   url: "mailto:mail@konstantin.digital",
+    //  name: "Behance",
+    //  url: "https://www.behance.net/konstanmnster",
     // },
+     {
+       name: "Mail",
+       url: "mailto:chungkang.c@gmail.com",
+     },
   ],
 
   //-- NAVIGATION SETTINGS -----
