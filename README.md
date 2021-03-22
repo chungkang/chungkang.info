@@ -22,6 +22,10 @@ https://blog.bitsrc.io/deploy-a-gatsby-site-on-github-pages-for-free-f18853c1b7a
 
 
 
+github pages에서 호스트를 netlify 로 변경 가능한지 확인
+
+https://www.netlify.com/
+
 
 # Gatsby Starter Portfolio Minimal
 
