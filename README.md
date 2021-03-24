@@ -1,7 +1,7 @@
 # www.chungkang.info
 [![Netlify Status](https://api.netlify.com/api/v1/badges/926619c1-0295-45c1-b253-6d6d59a36595/deploy-status)](https://app.netlify.com/sites/chungkanginfo/deploys)
 
-## Gasby
+## Gatsby
 https://www.gatsbyjs.com/docs/how-to/
 https://www.gatsbyjs.com/blog/2018-2-27-why-i-upgraded-my-website-to-gatsbyjs-from-jekyll/
 
@@ -9,6 +9,11 @@ https://www.gatsbyjs.com/blog/2018-2-27-why-i-upgraded-my-website-to-gatsbyjs-fr
 ## Netlify
 https://www.netlify.com/
 
+
+
+Instagram API
+Gatsby
+GraphQL
 
 
 
