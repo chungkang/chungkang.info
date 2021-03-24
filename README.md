@@ -1,32 +1,17 @@
-# chungkang.info
-chungkang.info
-
+# www.chungkang.info
 [![Netlify Status](https://api.netlify.com/api/v1/badges/926619c1-0295-45c1-b253-6d6d59a36595/deploy-status)](https://app.netlify.com/sites/chungkanginfo/deploys)
 
-Gatsby on Github Pages
-
-https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal#features
-
-
-
-
-https://velog.io/@_woogie/Gatsby%EB%A1%9C-Github-page-%EB%A7%8C%EB%93%A4%EA%B8%B0
-
-https://musma.github.io/2019/08/09/gatsby-js.html
-
-
-
+## Gasby
+https://www.gatsbyjs.com/docs/how-to/
 https://www.gatsbyjs.com/blog/2018-2-27-why-i-upgraded-my-website-to-gatsbyjs-from-jekyll/
 
-https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/how-gatsby-works-with-github-pages/
 
-https://blog.bitsrc.io/deploy-a-gatsby-site-on-github-pages-for-free-f18853c1b7a9
-
-
-
-github pages에서 호스트를 netlify 로 변경 가능한지 확인
-
+## Netlify
 https://www.netlify.com/
+
+
+
+
 
 
 # Gatsby Starter Portfolio Minimal
