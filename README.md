@@ -11,7 +11,7 @@ https://www.netlify.com/
 
 
 
-Instagram API
+Instagram API 테스트
 Gatsby
 GraphQL
 
