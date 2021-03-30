@@ -24,6 +24,11 @@ GraphQL
 https://graphql.org/
 
 
+gatsby instagram plug-in
+
+https://www.gatsbyjs.com/plugins/gatsby-source-instagram/
+
+https://www.gatsbyjs.com/plugins/gatsby-source-instagram-all/
 
 
 
