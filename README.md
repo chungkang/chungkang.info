@@ -31,7 +31,12 @@ https://www.gatsbyjs.com/plugins/gatsby-source-instagram/
 https://www.gatsbyjs.com/plugins/gatsby-source-instagram-all/
 
 
+https://github.com/oorestisime/gatsby-source-instagram#how-to-query
 
+https://github.com/theowenyoung/gatsby-theme-timeline
+
+
+.
 
 # Gatsby Starter Portfolio Minimal
 
