@@ -1,4 +1,4 @@
-# www.chungkang.info
+# chungkang.info
 [![Netlify Status](https://api.netlify.com/api/v1/badges/926619c1-0295-45c1-b253-6d6d59a36595/deploy-status)](https://app.netlify.com/sites/chungkanginfo/deploys)
 
 ## Gatsby
