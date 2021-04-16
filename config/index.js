@@ -1,11 +1,11 @@
 module.exports = {
   //-- SITE SETTINGS -----
   author: "@chungkang",
-  siteTitle: "Chungkang Choi",
-  siteShortTitle: "Chungkang Choi", // Used as logo text in header, footer, and splash screen
+  siteTitle: "chungkang.info",
+  siteShortTitle: "chungkang.info", // Used as logo text in header, footer, and splash screen
   siteDescription:
     "Portfolio",
-  siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
+  siteUrl: "https://chungkang.info",
   siteLanguage: "en_US",
   siteIcon: "content/favicon.png", // Relative to gatsby-config file
   seoTitleSuffix: "Portfolio Minimal", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
@@ -90,10 +90,10 @@ module.exports = {
         name: "Features",
         url: "/#projects",
       },
-      {
-        name: "Contact",
-        url: "/#contact",
-      },
+      // {
+      //   name: "Contact",
+      //   url: "/#contact",
+      // },
     ],
     button: {
       useFileName: true,
@@ -103,13 +103,13 @@ module.exports = {
     },
   },
   footerLinks: [
-    {
-      name: "Privacy",
-      url: "/privacy",
-    },
-    {
-      name: "Imprint",
-      url: "/imprint",
-    },
+    // {
+    //   name: "Privacy",
+    //   url: "/privacy",
+    // },
+    // {
+    //   name: "Imprint",
+    //   url: "/imprint",
+    // },
   ],
 }
