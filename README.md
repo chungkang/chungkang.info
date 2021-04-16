@@ -8,6 +8,9 @@ https://www.gatsbyjs.com/docs/how-to/
 https://www.gatsbyjs.com/blog/2018-2-27-why-i-upgraded-my-website-to-gatsbyjs-from-jekyll/
 
 
+3rd party API
+https://www.gatsbyjs.com/docs/third-party-graphql/
+
 
 ## Netlify
 
