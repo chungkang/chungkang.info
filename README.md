@@ -44,3 +44,5 @@ https://github.com/theowenyoung/gatsby-theme-timeline
  리액트네이티브 참여
  먹고 프로젝트 정리 및 추가
  키보드워리어 정리 및 추가
+
+경력부분 이슈, 트러블슈팅 해결
