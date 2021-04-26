@@ -39,13 +39,4 @@ https://github.com/oorestisime/gatsby-source-instagram#how-to-query
 https://github.com/theowenyoung/gatsby-theme-timeline
 
 
-메인 페이지 문구수정 필요
- 방통대 프로젝트 정리 및 추가
- 리액트네이티브 참여
- 먹고 프로젝트 정리 및 추가
- 키보드워리어 정리 및 추가
-
-
-경력부분 이슈, 트러블슈팅 해결
- MariaDB 문자열 비교 - 문자열 뒤에  " " 공백이 붙는 경우 동일하게 인식
 
